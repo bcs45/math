@@ -1,8 +1,5 @@
-4/14/24, 8:34 PM
+SLIP 16
 
-slips 16-20 slides
-
-In [ ]:
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot graph of the function f(x, y) = –x^2 − y^2 when −10 ≤ x, y ≤
 In [1]:
@@ -292,7 +289,9 @@ slips 16-20 slides
 
 In [ ]:
 
-In [ ]:
+
+SLIP 17
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program to plot the 3D graph of the function z = x^2 + y^2
 in −6 < x, y < 6 using surface plot.
@@ -591,7 +590,10 @@ Out[14]:
 
 In [ ]:
 
-In [ ]:
+
+SLIP 18
+
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program to draw polygon with vertices [3, 3], [4, 6], [2, 5], [2, 2], and it
 in x and y directions using the factors 3, 5 respectively.
@@ -1215,7 +1217,9 @@ Out[116]:
 
 In [ ]:
 
-In [ ]:
+
+SLIP 18
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the function f(x) = sin x and g(x) = cos x in [−
 In [5]:
