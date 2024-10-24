@@ -1,8 +1,5 @@
-4/13/24, 3:54 PM
+SLIP 11
 
-slips 11-15 slides
-
-In [ ]:
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program to plot 3D axes with labels as X−axis, Y−axis and Z−axis and also pl
 following point with given coordinates in the same graph: (70, −25, 15) as a diamond in black
@@ -301,7 +298,10 @@ Out[32]:
 
 In [ ]:
 
-In [ ]:
+
+
+
+SLIP 12
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program to plot the graph of y = x^3 + 10x − 5, for x ∈ [−10, 10] in red col
 In [33]:
@@ -580,7 +580,10 @@ Out[59]:
 
 In [ ]:
 
-In [ ]:
+
+
+SLIP 13
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the functions f(x) = x^2 and
 g(x) = x^3 in [−1, 1].
@@ -905,7 +908,9 @@ plt.show()
 
 In [ ]:
 
-In [ ]:
+
+SLIP 14
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the functions f(x) = x^2 and g(x) = x^3
 in [−1, 1].
@@ -1197,7 +1202,8 @@ Point2D
 
 In [ ]:
 
-In [ ]:
+SLIP 15
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write the Python program to find area of the triangle ABC, where A[0, 0], B[5, 0], C[3, 3].
 In [124]:
