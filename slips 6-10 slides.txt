@@ -1,8 +1,5 @@
-4/13/24, 12:29 PM
+SLIP 6
 
-slips 6-10 slides
-
-In [ ]:
 Q.1 Attempt any TWO of the following. [10]
 (a) Draw the horizontal bar graph for the following data in Maroon colour.
 City
@@ -242,7 +239,8 @@ x,y=symbols('x,y')
 S.reflect(Line(x-y+0))
 Out[24]:
 
-In [ ]:
+SLIP 7
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Plot the graph of f(x) = x^4
 in [0, 5] with red dashed line with circle markers.
@@ -492,7 +490,8 @@ q1=q.transform(Matrix([[1,0,0],[0,-1,0],[0,0,1]]))
 Segment(p1,q1)
 Out[65]:
 
-In [ ]:
+SLIP 8
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Plot the graphs of sin x, cos x, e^x and x^2
 in [0, 5] in one figure with (2 × 2) subplots.
@@ -776,7 +775,8 @@ q1=q.transform(Matrix([[-1,0,0],[0,1,0],[0,0,1]]))
 Segment(p1,q1)
 Out[99]:
 
-In [ ]:
+SLIP 9
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program to Plot 2DX-axis and Y-axis black color and in the same diagram plot
 green triangle with vertices [5, 4], [7, 4], [6, 6].
@@ -1050,9 +1050,10 @@ q1=q.transform(Matrix([[1,3,0],[4,1,0],[0,0,1]]))
 Segment(p1,q1)
 Out[27]:
 
-In [ ]:
 
-In [ ]:
+
+SLIP 10
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a python program in 3D to rotate the point (1, 0, 0) through XY plane in clockwise di
 (Rotation through Z-Axis by an angle of 90◦)
