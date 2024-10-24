@@ -1,3 +1,5 @@
+SLIP 1
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the functions f(x) = x^2 and g(x) = x^3
 in [−1, 1]
@@ -173,6 +175,7 @@ p1=p.transform(Matrix([[1,4,0],[0,1,0],[0,0,1]]))
 q1=q.transform(Matrix([[1,4,0],[0,1,0],[0,0,1]]))
 Segment(p1,q1)
 
+SLIP 2
 
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the functions f(x) = log10(x) in the interval [0
@@ -265,7 +268,7 @@ B=Point(6,0)
 C=Point(4,4)
 T=Triangle(A,B,C)
 
-file:///C:/Us
+
 In [48]:
 T.area
 Out[48]:
@@ -456,7 +459,9 @@ Out[70]:
 
 In [ ]:
 
-In [ ]:
+
+SLIP 3
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Using Python plot the graph of function f(x) = cos(x) on the interval [0, 2π].
 In [1]:
@@ -755,7 +760,8 @@ q1=q.transform(Matrix([[0,1,0],[1,0,0],[0,0,1]]))
 Segment(p1,q1)
 Out[35]:
 
-In [ ]:
+SLIP 4
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Write a Python program to plot 2D graph of the functions f(x) = log10(x) in the interval [0
 In [36]:
@@ -1034,7 +1040,8 @@ q1=q.transform(Matrix([[0,1,0],[1,0,0],[0,0,1]]))
 Segment(p1,q1)
 Out[61]:
 
-In [ ]:
+SLIP 5
+
 Q.1 Attempt any TWO of the following. [10]
 (a) Using Python plot the surface plot of function z = cos(x^2 + y^2 − 0.5)
 in the interval from −1 <x, y < 1.
